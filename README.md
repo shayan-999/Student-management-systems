@@ -230,6 +230,7 @@ The project demonstrates all four basic database operations:
 
 ## Author
 
-**Your Name**
+
+Student Management System Project
 
 Built as a learning project to practice **Node.js, Express.js, REST APIs, JavaScript, and SQL Server database integration**.
